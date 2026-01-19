@@ -1,0 +1,17 @@
+[pages.html](https://github.com/user-attachments/files/24712850/pages.html)
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kioshi</title>
+</head>
+<body>
+    <div class="main">
+        <h1 class="title">Зыков Иван.</h1>
+        <p class="text">Мои Проекты:
+telegram:@tiredspectre
+Репозиторий https://github.com/Kiosshii
+</p>
+    </div>
+</body>
